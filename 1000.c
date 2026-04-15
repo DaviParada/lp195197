@@ -4,7 +4,7 @@ Linguagem   : C
 Nome        : Davi de Oliveira Parada
 Plataforma  : https://judge.beecrowd.com/pt/search
 Exercício   : 1000
-Data        : 14/04/2026
+Data        : 07/04/2026
 Objetivo    : Escrever Hello World
 Aprendizado : Utilização da função printf
 -------------------------------------------------------------------------- */
