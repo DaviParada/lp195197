@@ -1,3 +1,17 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Nome        : Davi de Oliveira Parada
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 1071
+Data        : 09/04/2026
+Objetivo    : Exibir números com preenchimento
+Aprendizado : Utilização de mascaras e preenchimento
+-------------------------------------------------------------------------- */
+
+
+
+
 #include <stdio.h>
  
 int main() {
