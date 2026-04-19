@@ -1,9 +1,14 @@
-
-
-
-
-
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Linguagem   : C
+Nome        : Davi de Oliveira Parada
+Plataforma  : https://judge.beecrowd.com/pt/search
+Exercício   : 2757
+Data        : 09/04/2026
+Objetivo    : Maior entre 100 números sem usar Array
+Aprendizado : Utilização de estruras de repetição e condicionais
+-------------------------------------------------------------------------- */
+ 
 #include <stdio.h>
 #include <stdlib.h>
 
