@@ -13,12 +13,15 @@ Aprendizado : Utilização de comandos básicos de C
  
 int main() {
     int N, i;
+
     scanf("%d", &N);
-    if(2 < N < 1000){
+    if(2 < N && N < 1000){
         for(i = 1; i <= 10; i++){
-            printf("%d x %d = %d", i, N, i*N);
+            printf("%d x %d = %d\n", i, N, i*N);
         }
     }else{
         return 1;
     }
+
+    return 0;
 }
