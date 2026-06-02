@@ -1,6 +1,6 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, turma IB, 2026S1
-Linguagem   : C
+Linguagem   : C++
 Nome        : Davi de Oliveira Parada
 Plataforma  : https://judge.beecrowd.com/pt/search
 Exercício   : 1078
